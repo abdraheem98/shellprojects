@@ -1,7 +1,6 @@
 # Concept 1 — Structured Logging
 
-> **Session:** Shell Scripting for DevOps — Real-Time Project Concepts  
-> **Duration:** ~20 minutes  
+> **Session:** Shell Scripting for DevOps — Real-Time Project Concepts   
 > **Prerequisite:** Basic shell scripting (variables, conditionals, functions)
 
 ---
